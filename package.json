@@ -1,6 +1,11 @@
 {
   "name": "simple-custom-hooks",
   "version": "0.1.1",
+  "author": "José Augusto da França",
+  "homepage": "https://github.com/jaugustodafranca/simple-custom-hooks",
+  "bugs": {
+    "url": "https://github.com/jaugustodafranca/simple-custom-hooks/issues"
+  },
   "description": "The purpose of this library is to gather useful Custom Hooks to facilitate our daily lives as a programmer",
   "main": "index.js",
   "license": "MIT",
@@ -17,5 +22,18 @@
   },
   "dependencies": {
     "axios": "^0.21.1"
-  }
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "local-storage",
+    "custom-hooks",
+    "click outside",
+    "form",
+    "scroll",
+    "key press",
+    "fetch",
+    "local-storage",
+    "widow size"
+  ]
 }
