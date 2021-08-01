@@ -1,0 +1,21 @@
+{
+  "name": "simple-custom-hooks",
+  "version": "0.1.0",
+  "description": "The purpose of this library is to gather useful Custom Hooks to facilitate our daily lives as a programmer",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.24.0",
+    "prettier": "^2.3.2"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
