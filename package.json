@@ -1,6 +1,6 @@
 {
   "name": "simple-custom-hooks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The purpose of this library is to gather useful Custom Hooks to facilitate our daily lives as a programmer",
   "main": "index.js",
   "license": "MIT",
